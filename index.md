@@ -1,4 +1,4 @@
-## 4TU HaLow Workshop
+## 4TU HaLow Workshop \n 123
 # 16 December 2021
 
 ### Program
@@ -6,25 +6,21 @@
 Opening: 9:00 - 9:05
 
 9:05 - 9:35
-Jeroen Hoebeke, Professor at UGent and imec
-https://www.ugent.be/ea/idlab/en/members/jeroen-hoebeke.htm
+Jeroen Hoebeke, Professor at UGent and imec [Link](https://www.ugent.be/ea/idlab/en/members/jeroen-hoebeke.htm)
 Talk title: The role of Wi-Fi HaLow in Industrial IoT
 
 9:35 - 10:05
-Marleen Boonen, CEO of Methods2Business 
-https://www.methods2business.com/
+Marleen Boonen, CEO of Methods2Business [Link](https://www.methods2business.com/)
 Talk title: The launch of Wi-Fi CERTIFIED® HaLow™ and Methods2Business Wi-Fi Certified IP solutions
 
 Short break: 10:05-10:10
 
 10:10 - 10:40
-Jeroen Famaey, Professor at the Internet and Data Lab (IDLab), University of Antwerp
-https://jeroen.famaey.eu/
+Jeroen Famaey, Professor at the Internet and Data Lab (IDLab), University of Antwerp [Link](https://jeroen.famaey.eu/)
 Talk title: On the scalability and energy efficiency of Wi-Fi HaLow for dense IoT deployments
 
 10:40 - 11:10
-Xianjun Jiao, Senior Researcher at imec
-https://www.linkedin.com/in/xianjun-jiao-7a569641/?originalSubdomain=be
+Xianjun Jiao, Senior Researcher at imec [Link](https://www.linkedin.com/in/xianjun-jiao-7a569641/?originalSubdomain=be)
 Talk title: openwifi: the open-source WiFi chip and it’s applications
 
 ```markdown
