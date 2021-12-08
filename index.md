@@ -19,39 +19,33 @@ The workshop is sponsored by <a href="https://www.4tu.nl/nirict/">4TU.NIRICT</a>
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
 
 <ul>
-<li><span style="font-weight: 400;">9:00 - 9:05 am CET</span>
-<ul>
-<li><span style="font-weight: 400;">Opening</span></li>
-</ul>
+<li>9:00 - 9:05 am CET <br>
+    <i>Opening</i>
 </li>
-<li>9:05 - 9:35 am CET
-<ul>
-<li><a href="https://www.ugent.be/ea/idlab/en/members/jeroen-hoebeke.htm">Jeroen Hoebeke</a>, Professor at UGent and imec</li>
-<li>Talk title: <strong>The role of Wi-Fi HaLow in Industrial IoT</strong></li>
-</ul>
+<br>
+  
+<li>9:05 - 9:35 am CET <br>
+<strong>The role of Wi-Fi HaLow in Industrial IoT</strong> <br>
+<strong>Jeroen Hoebeke</strong>, Professor at the IDLab, Ghent University & imec
 </li>
-<li>9:35 - 10:05 am CET
-<ul>
-<li><a href="https://www.methods2business.com/">Marleen Boonen</a>, CEO of Methods2Business</li>
-<li>Talk title: <strong>The launch of Wi-Fi CERTIFIED&reg; HaLow&trade; and Methods2Business Wi-Fi Certified IP solutions</strong></li>
-</ul>
+<li>9:35 - 10:05 am CET <br>
+    <strong>The launch of Wi-Fi CERTIFIED&reg; HaLow&trade; and Methods2Business Wi-Fi Certified IP solutions</strong> <br>
+    <strong>Marleen Boonen</strong>, CEO of Methods2Business
 </li>
-<li>10:05-10:10 am CET
-<ul>
-<li><span style="font-weight: 400;">Short break</span></li>
-</ul>
+
+ <br>
+<li>10:05-10:10 am CET <br>
+<i>Short break</span></i>
 </li>
-<li>10:10 - 10:40 am CET
-<ul>
-<li><a href="https://jeroen.famaey.eu/">Jeroen Famaey</a>, Professor at the Internet and Data Lab (IDLab), University of Antwerp</li>
-<li>Talk title: <strong>On the scalability and energy efficiency of Wi-Fi HaLow for dense IoT deployments</strong></li>
-</ul>
+ <br>
+
+<li>10:10 - 10:40 am CET <br>
+    <strong>On the scalability and energy efficiency of Wi-Fi HaLow for dense IoT deployments</strong></br>
+    <strong>Jeroen Famaey</strong>, Professor at the IDLab, University of Antwerp & imec
 </li>
-<li>10:40 - 11:10 am CET
-<ul>
-<li><a href="https://www.linkedin.com/in/xianjun-jiao-7a569641/?originalSubdomain=be">Xianjun Jiao</a>, Senior Researcher at imec</li>
-<li>Talk title: <strong>Openwifi: the open-source WiFi chip and it&rsquo;s applications</strong></li>
-</ul>
+<li>10:40 - 11:10 am CET <br>
+     <strong>Openwifi: the open-source WiFi chip and it&rsquo;s applications</strong> <br>  
+     <strong>Xianjun Jiao</strong>, Senior Researcher at imec
 </li>
 </ul>
 
