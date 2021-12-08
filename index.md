@@ -2,7 +2,7 @@
 
 <i>Date: 16 December 2021 </i> <br>
 <i>Time: 9:00 - 11:10 am CET </i> <br> 
-<i>Free registratrion:</i> <a href="https://docs.google.com/forms/d/e/1FAIpQLSeQqMgQumOwpMRBjGOZkt_A1NHiaYYnb9O1u0x3ojywBUFuRQ/viewform?usp=pp_url">link</a> </i>
+<i>Free registratrion: <a href="https://docs.google.com/forms/d/e/1FAIpQLSeQqMgQumOwpMRBjGOZkt_A1NHiaYYnb9O1u0x3ojywBUFuRQ/viewform?usp=pp_url">link</a> </i>
 <br>
 
 <p><strong>Welcome to the 4TU Workshop on WiFi HaLow (i.e., the long-range WiFi)!</strong></p>
