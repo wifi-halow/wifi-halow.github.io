@@ -4,29 +4,41 @@
 ### Program
 
 <ul>
-<li>Line 1</li>
-<li>Line 2</li>
+<li><span style="font-weight: 400;">9:00 - 9:05</span>
+<ul>
+<li><span style="font-weight: 400;">Opening</span></li>
 </ul>
-
-Opening: 9:00 - 9:05
-
-- 9:05 - 9:35
-- [Jeroen Hoebeke](https://www.ugent.be/ea/idlab/en/members/jeroen-hoebeke.htm), Professor at UGent and imec__
-Talk title: The role of Wi-Fi HaLow in Industrial IoT
-
-9:35 - 10:05
-[Marleen Boonen](https://www.methods2business.com/), CEO of Methods2Business
-Talk title: The launch of Wi-Fi CERTIFIED® HaLow™ and Methods2Business Wi-Fi Certified IP solutions
-
-Short break: 10:05-10:10
-
-10:10 - 10:40
-[Jeroen Famaey](https://jeroen.famaey.eu/), Professor at the Internet and Data Lab (IDLab), University of Antwerp
-Talk title: On the scalability and energy efficiency of Wi-Fi HaLow for dense IoT deployments
-
-10:40 - 11:10
-[Xianjun Jiao](https://www.linkedin.com/in/xianjun-jiao-7a569641/?originalSubdomain=be), Senior Researcher at imec 
-Talk title: openwifi: the open-source WiFi chip and it’s applications
+</li>
+<li>9:05 - 9:35
+<ul>
+<li><a href="https://www.ugent.be/ea/idlab/en/members/jeroen-hoebeke.htm">Jeroen Hoebeke</a>, Professor at UGent and imec</li>
+<li>Talk title: The role of Wi-Fi HaLow in Industrial IoT</li>
+</ul>
+</li>
+<li>9:35 - 10:05
+<ul>
+<li><a href="https://www.methods2business.com/">Marleen Boonen</a>, CEO of Methods2Business</li>
+<li>Talk title: The launch of Wi-Fi CERTIFIED&reg; HaLow&trade; and Methods2Business Wi-Fi Certified IP solutions</li>
+</ul>
+</li>
+<li>10:05-10:10
+<ul>
+<li><span style="font-weight: 400;">Short break</span></li>
+</ul>
+</li>
+<li>10:10 - 10:40
+<ul>
+<li><a href="https://jeroen.famaey.eu/">Jeroen Famaey</a>, Professor at the Internet and Data Lab (IDLab), University of Antwerp</li>
+<li>Talk title: On the scalability and energy efficiency of Wi-Fi HaLow for dense IoT deployments</li>
+</ul>
+</li>
+<li>10:40 - 11:10
+<ul>
+<li><a href="https://www.linkedin.com/in/xianjun-jiao-7a569641/?originalSubdomain=be">Xianjun Jiao</a>, Senior Researcher at imec</li>
+<li>Talk title: openwifi: the open-source WiFi chip and it&rsquo;s applications</li>
+</ul>
+</li>
+</ul>
 
 ```markdown
 Syntax highlighted code block
