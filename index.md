@@ -28,7 +28,7 @@ The workshop is sponsored by <a href="https://www.4tu.nl/nirict/">4TU.NIRICT</a>
 <strong>The role of Wi-Fi HaLow in Industrial IoT</strong> <br>
 <strong>Jeroen Hoebeke</strong>, Professor at the IDLab, Ghent University & imec
 </li> 
-    <hr style="height:10px; visibility:hidden;" />
+<p style="margin:10px;"></p>
 <li>9:35 - 10:05 am CET <br>
     <strong>The launch of Wi-Fi CERTIFIED&reg; HaLow&trade; and Methods2Business Wi-Fi Certified IP solutions</strong> <br>
     <strong>Marleen Boonen</strong>, CEO of Methods2Business
@@ -41,10 +41,10 @@ The workshop is sponsored by <a href="https://www.4tu.nl/nirict/">4TU.NIRICT</a>
  <br>
 
 <li>10:10 - 10:40 am CET <br>
-    <strong>On the scalability and energy efficiency of Wi-Fi HaLow for dense IoT deployments</strong></br>
+    <strong>On the scalability and energy efficiency of Wi-Fi HaLow for dense IoT deployments</strong><br>
     <strong>Jeroen Famaey</strong>, Professor at the IDLab, University of Antwerp & imec
 </li>
-<hr style="height:10px; visibility:hidden;" />
+<p style="margin:10px;"></p>
 <li>10:40 - 11:10 am CET <br>
      <strong>Openwifi: the open-source WiFi chip and it&rsquo;s applications</strong> <br>  
      <strong>Xianjun Jiao</strong>, Senior Researcher at imec
