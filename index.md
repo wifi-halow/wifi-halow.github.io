@@ -12,7 +12,7 @@
 
 <p>This workshop is sponsored by 4TU.NIRICT through the project &ldquo;<a href="https://www.4tu.nl/nirict/">Intelligent Long-range Wi-Fi</a>&rdquo;.</p>
 
-### Workshop Program
+### **Workshop Program**
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
 
