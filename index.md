@@ -1,10 +1,10 @@
-<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
-
 ## 4TU HaLow Workshop
 
 ### Date: 16 December 2021
 
 ### Workshop Program
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
 
 <ul>
 <li><span style="font-weight: 400;">9:00 - 9:05</span>
