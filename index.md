@@ -1,7 +1,6 @@
 ## 4TU Workshop on WiFi HaLow 
 
-### Date: 16 December 2021
-### Time: 9:00 - 11:10 am CET
+### Date and time: 16 December 2021, 9:00 - 11:10 am CET
 
 <p><strong>Welcome to the 4TU Workshop on WiFi HaLow (i.e., the long-range WiFi)!</strong></p>
 
