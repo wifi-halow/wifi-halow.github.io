@@ -22,7 +22,7 @@ The workshop is sponsored by <a href="https://www.4tu.nl/nirict/">4TU.NIRICT</a>
 <li>9:00 - 9:05 am CET <br>
     <i>Opening</i>
 </li>
-<br>
+<p style="margin:10px;"></p>
   
 <li>9:05 - 9:35 am CET <br>
 <strong>The role of Wi-Fi HaLow in Industrial IoT</strong> <br>
@@ -34,11 +34,11 @@ The workshop is sponsored by <a href="https://www.4tu.nl/nirict/">4TU.NIRICT</a>
     <strong>Marleen Boonen</strong>, CEO of Methods2Business
 </li>
 
- <br>
+<p style="margin:10px;"></p>
 <li>10:05 - 10:10 am CET <br>
 <i>Short break</i>
 </li>
- <br>
+<p style="margin:10px;"></p>
 
 <li>10:10 - 10:40 am CET <br>
     <strong>On the scalability and energy efficiency of Wi-Fi HaLow for dense IoT deployments</strong><br>
