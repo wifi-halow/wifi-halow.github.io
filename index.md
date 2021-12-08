@@ -4,7 +4,6 @@
 
 ### Workshop Program
 
-```markdown
 <ul>
 <li><span style="font-weight: 400;">9:00 - 9:05</span>
 <ul>
@@ -41,4 +40,5 @@
 </ul>
 </li>
 </ul>
-```
+
+
