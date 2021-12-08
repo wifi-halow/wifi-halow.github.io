@@ -35,7 +35,7 @@ The workshop is sponsored by <a href="https://www.4tu.nl/nirict/">4TU.NIRICT</a>
 </li>
 
  <br>
-<li>10:05-10:10 am CET <br>
+<li>10:05 - 10:10 am CET <br>
 <i>Short break</i>
 </li>
  <br>
