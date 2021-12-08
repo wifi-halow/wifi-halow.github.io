@@ -5,8 +5,8 @@
 
 Opening: 9:00 - 9:05
 
-9:05 - 9:35
-[Jeroen Hoebeke](https://www.ugent.be/ea/idlab/en/members/jeroen-hoebeke.htm), Professor at UGent and imec
+- 9:05 - 9:35
+- [Jeroen Hoebeke](https://www.ugent.be/ea/idlab/en/members/jeroen-hoebeke.htm), Professor at UGent and imec__
 Talk title: The role of Wi-Fi HaLow in Industrial IoT
 
 9:35 - 10:05
