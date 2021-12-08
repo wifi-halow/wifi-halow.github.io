@@ -1,7 +1,8 @@
 ## 4TU HaLow Workshop
-### 16 December 2021
 
-### Program
+### Date: 16 December 2021
+
+### Workshop Program
 
 <ul>
 <li><span style="font-weight: 400;">9:00 - 9:05</span>
