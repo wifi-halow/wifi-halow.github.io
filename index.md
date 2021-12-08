@@ -1,6 +1,6 @@
-## 4TU Workshop on WiFi HaLow (online)
+## 4TU Workshop on WiFi HaLow
 
-<i>Date: 16 December 2021 </i> <br>
+<i>Date: 16 December 2021 (online) </i> <br>
 <i>Time: 9:00 - 11:10 am CET </i> <br> 
 <i>Free registratrion: <a href="https://docs.google.com/forms/d/e/1FAIpQLSeQqMgQumOwpMRBjGOZkt_A1NHiaYYnb9O1u0x3ojywBUFuRQ/viewform?usp=pp_url">link</a> </i>
 <br>
