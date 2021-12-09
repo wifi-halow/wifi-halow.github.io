@@ -15,7 +15,7 @@ The workshop will be organized <i>online</i> using Zoom. <strong>Come and join u
 
 The workshop is sponsored by <a href="https://www.4tu.nl/nirict/">4TU.NIRICT</a> through the project "Intelligent Long-range WiFi". 
 
-### **(Tentative) Workshop Program (16 December 2021)**
+### **Tentative Workshop Program (16 December 2021)**
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
 
