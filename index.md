@@ -52,3 +52,20 @@ The workshop is sponsored by <a href="https://www.4tu.nl/nirict/">4TU.NIRICT</a>
 </ul>
 
 
+### **Workshop Organizers (in alphabetical order)**
+
+<ul>
+    
+<li>Nirvana Meratnia, Eindhoven University of Technology (TU/e) </i>
+<p style="margin:10px;"></p>
+
+<li>Qing Wang, Delft University of Technology (TU Delft) </i>
+<p style="margin:10px;"></p>
+
+<li>Qingzhi Li, Wageningen University and Research Centre (WUR)</i>
+<p style="margin:10px;"></p>
+
+<li>Yang Miao, University of Twente (UT) </i>
+
+</ul>
+
