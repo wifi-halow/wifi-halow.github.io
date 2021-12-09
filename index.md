@@ -11,7 +11,7 @@ WiFi is dominating the wireless local area networks. To make it also a competiti
 
 In this <a href="https://en.wikipedia.org/wiki/4TU">4TU</a> Workshop on WiFi HaLow, we invite four well-known European researchers and industrial leaders on WiFi HaLow as well as open-source WiFi prototyping to share their latest research findings, insights, and commercialization results, and experience. We aim to bring together researchers to discuss and brainstorm the future opportunities and challenges of the promising long-range WiFi HaLow technology. 
 
-The workshop is sponsored by <a href="https://www.4tu.nl/nirict/">4TU.NIRICT</a> and will be organized <i>online</i> using Zoom. <strong>Come and join us by registering <a href="https://docs.google.com/forms/d/e/1FAIpQLSeQqMgQumOwpMRBjGOZkt_A1NHiaYYnb9O1u0x3ojywBUFuRQ/viewform?usp=pp_url">here</a>!</strong> If you cannot open the registration link, please email your name + affiliation to qing.wang@tudelft.nl and qingzhi.liu@wur.nl with the prefix “[4TU HaLow Workshop]”. 
+The workshop is sponsored by <a href="https://www.4tu.nl/nirict/">4TU.NIRICT</a> and will be organized <i>online</i> using Zoom. <strong>Come and join us by registering <a href="https://docs.google.com/forms/d/e/1FAIpQLSeQqMgQumOwpMRBjGOZkt_A1NHiaYYnb9O1u0x3ojywBUFuRQ/viewform?usp=pp_url">here</a> first!</strong> If you cannot open the registration link, please email your name + affiliation to both qingzhi.liu@wur.nl and qing.wang@tudelft.nl with the prefix “[4TU HaLow Workshop]”. 
 
 
 ### **Workshop Program (16 December 2021)**
